@@ -1,0 +1,15 @@
+.table tr:hover {
+  background-color: grey;
+}
+
+.table {
+  background: black;
+  color: white;
+  border: 0;
+}
+
+.table td {
+  width: 50%;
+  text-align: center;
+  font-size: 16px;
+}
